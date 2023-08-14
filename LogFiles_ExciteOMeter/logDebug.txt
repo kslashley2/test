@@ -1,0 +1,4 @@
+unityTimeStamp,Event
+2023-08-14|16:13:02.445,New App Execution
+unityTimeStamp,Event
+2023-08-14|16:27:55.825,New App Execution

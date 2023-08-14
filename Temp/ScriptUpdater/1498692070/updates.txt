@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1498692070/475007023_CUIImageEditor.cs => Assets/unity-ui-extensions/Editor/CUIImageEditor.cs
